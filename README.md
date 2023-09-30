@@ -25,4 +25,9 @@ The code is based on and inspired by the following resources:
 - [pychessengine](https://github.com/perintyler/pychessengine/tree/master)
 - [angelfish](https://github.com/VCHui/angelfish)
 
+## APIs, GitHub and Libraries used
+[lichess-bot](https://github.com/ShailChoksi/lichess-bot)
+[lichess-API](https://lichess.org/api) Used by lichess-bot
+[python-chess library](https://python-chess.readthedocs.io/en/latest/)
+
 
