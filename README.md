@@ -25,9 +25,10 @@ The code is based on and inspired by the following resources:
 - [pychessengine](https://github.com/perintyler/pychessengine/tree/master)
 - [angelfish](https://github.com/VCHui/angelfish)
 
-## APIs, GitHub and Libraries used
-- [lichess-bot](https://github.com/ShailChoksi/lichess-bot) Used to connect the engine with the lichess platform, using their "homemade" engine option, inside the strategies.py file
-- [lichess-API](https://lichess.org/api) Used by lichess-bot API 
+## APIs, GitHub and Libraries used  
+- [lichess-bot](https://github.com/ShailChoksi/lichess-bot) Used to connect the engine with the lichess platform, using their "homemade" engine option, inside the strategies.py file  
+- [lichess-API](https://lichess.org/api) Used by lichess-bot API  
 - [python-chess library](https://python-chess.readthedocs.io/en/latest/) Used for most of the chess logic (board object, making moves on the board, looping through the squares, etc.)
+
 
 
