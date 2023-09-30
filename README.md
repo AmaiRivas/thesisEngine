@@ -18,6 +18,7 @@ thesisEngine is a chess engine designed to run on the [lichess-bot](https://gith
 ## Acknowledgments
 The code is based on and inspired by the following resources:
 - [Bruce Moreland's Programming Pages](https://web.archive.org/web/20071026090003/http://www.brucemo.com/compchess/programming/index.htm)
+- [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)
 - [Chess Programming YouTube Channel](https://www.youtube.com/@chessprogramming591)
 - [Sunfish](https://github.com/thomasahle/sunfish)
 - [Theodora](https://github.com/yigitkucuk/Theodora)
