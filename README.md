@@ -26,8 +26,8 @@ The code is based on and inspired by the following resources:
 - [angelfish](https://github.com/VCHui/angelfish)
 
 ## APIs, GitHub and Libraries used
-[lichess-bot](https://github.com/ShailChoksi/lichess-bot)
-[lichess-API](https://lichess.org/api) Used by lichess-bot
-[python-chess library](https://python-chess.readthedocs.io/en/latest/)
+- [lichess-bot](https://github.com/ShailChoksi/lichess-bot) Used to connect the engine with the lichess platform, using their "homemade" engine option, inside the strategies.py file
+- [lichess-API](https://lichess.org/api) Used by lichess-bot API 
+- [python-chess library](https://python-chess.readthedocs.io/en/latest/) Used for most of the chess logic (board object, making moves on the board, looping through the squares, etc.)
 
 
