@@ -1,0 +1,13 @@
+You can either search the URL to see the game, or use it to search in the all_games.pgn and see the games that were played after each iteration
+
+V3 Start: https://lichess.org/mrGTcZka
+1. Material count, until: https://lichess.org/4ee2UU5i
+2. Knights and bishops development, until: https://lichess.org/9DazRQk8
+3. Pawn push in mid-end and end game, until: https://lichess.org/NhtPSimY
+4. Pins with the king, until: https://lichess.org/MPk2wbML
+5. Doubled pawns, until: https://lichess.org/zqc7wwGA
+6. Move repetition, until: https://lichess.org/zm0RrmWb
+7. Open files, until: https://lichess.org/n3bKnFUX
+8. King castle bonus, until: https://lichess.org/aEDqG00A
+9. Rook in the 7th rank, until: https://lichess.org/NxYsQPyi
+10. No queen out in the early game, until: https://lichess.org/WLZTbJQm
